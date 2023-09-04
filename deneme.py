@@ -1,3 +1,3 @@
 bu ilk deneme
 
-Vscode ile gönderilmiştir
+Vscode ile gönderilmiştir.
